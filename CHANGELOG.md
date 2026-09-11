@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- 2026-09-11: Add a structured pattern-proposal issue form (`.github/ISSUE_TEMPLATE/pattern_proposal.yml`) that auto-labels `enhancement` and requires a should-fire and a must-not-fire example; CONTRIBUTING.md points to it (#157).
 - 2026-09-10: Add repository-local SSOT CI checks for the detector's Node requirement,
   advisory discovery, and drift controls; pin the existing promo checker.
 
